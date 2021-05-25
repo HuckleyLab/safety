@@ -12,7 +12,7 @@
 ## Chemicals
 * [Laboratory specific Chemical Hygene Plan](https://github.com/HuckleyLab/safety/blob/main/Laboratory-SpecificCHP_Buckley.pdf)
 
-* [Standard operative proceedures](https://github.com/HuckleyLab/safety/tree/main/sds)
+* [Standard operative proceedures](https://github.com/HuckleyLab/safety/tree/main/sops)
 
 * [Safety data sheets](https://github.com/HuckleyLab/safety/tree/main/sds)
 
