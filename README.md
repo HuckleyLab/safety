@@ -12,6 +12,8 @@
 * [Emergency contacts](https://github.com/HuckleyLab/safety/blob/main/BuckleyLab-emergency-information.pdf)
 
 ## Chemicals
+* [MyChem Laboratory chemical inventory](https://cspc.admin.uw.edu/mychem/uwnetid/home/greeting.aspx) 
+
 * [Laboratory specific Chemical Hygene Plan](https://github.com/HuckleyLab/safety/blob/main/Laboratory-SpecificCHP_Buckley.pdf)
 
 * [Standard operative proceedures](https://github.com/HuckleyLab/safety/tree/main/sops)
@@ -26,4 +28,4 @@
 * [PPE hazard assessment](https://github.com/HuckleyLab/safety/blob/main/PPE-hazard-assessment_Buckley.pdf)
 
 ## Training records
-Training records and self-inspection documentation available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing)
+Training records and self-inspection documentation available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing). Safety training reports can be generated [here](https://training.ehs.washington.edu/mytraining/)
