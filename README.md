@@ -1,9 +1,7 @@
 # Buckley Lab safety information
-* [UW Biosafety manual](https://ehs.washington.edu/system/files/resources/uw-biosafety-manual.pdf)
-
-* [Department of Biology Safety Resources Plan](http://www.biology.washington.edu/admin-gateway) including the biology new employee [safety orientation](http://www.biology.washington.edu/sites/default/files/pdf/safety/BioNewEmployeeOrientation.pdf).
-
 * [UW lab safety manual](http://www.ehs.washington.edu/manuals/lsm/index.shtm)
+
+* Biology new employee [safety orientation](http://www.biology.washington.edu/sites/default/files/pdf/safety/BioNewEmployeeOrientation.pdf).
 
 * [Report any lab accident using the OARS system here](http://www.ehs.washington.edu/ohsoars/index.shtm)
 
