@@ -1,4 +1,6 @@
 # Buckley Lab safety information
+* [UW Biology safety resources](https://www.biology.washington.edu/admin-gateway/departmental/safety) (requires department login)
+
 * [UW lab safety manual](http://www.ehs.washington.edu/manuals/lsm/index.shtm)
 
 * Biology new employee [safety orientation](http://www.biology.washington.edu/sites/default/files/pdf/safety/BioNewEmployeeOrientation.pdf).
@@ -24,4 +26,4 @@
 * [PPE hazard assessment](https://github.com/HuckleyLab/safety/blob/main/PPE-hazard-assessment_Buckley.pdf)
 
 ## Training records
-Training records and self-inspection documentation available in [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing)
+Training records and self-inspection documentation available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing)
