@@ -12,7 +12,7 @@
 * [Emergency contacts](https://github.com/HuckleyLab/safety/blob/main/BuckleyLab-emergency-information.pdf)
 
 ## Chemicals
-* [MyChem Laboratory chemical inventory](https://cspc.admin.uw.edu/mychem/uwnetid/home/greeting.aspx) 
+* [MyChem Laboratory chemical inventory](https://mychem.ehs.washington.edu/) 
 
 * [Laboratory specific Chemical Hygene Plan](https://github.com/HuckleyLab/safety/blob/main/Laboratory-SpecificCHP_Buckley.pdf)
 
