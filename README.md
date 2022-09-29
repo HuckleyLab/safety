@@ -32,4 +32,10 @@
 * [PPE hazard assessment](https://github.com/HuckleyLab/safety/blob/main/PPE-hazard-assessment_Buckley.pdf)
 
 ## Training records
-Training records and self-inspection documentation available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing). Safety training reports can be generated [here](https://training.ehs.washington.edu/mytraining/)
+Training records are available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing). 
+
+Trainees should do the following after training in the [Drive](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing):
+* Upload your BioNewEmployeeOrientation
+* Complete and sign the last page of the PPE hazard assessment
+* Make sure your trainings are up to date and upload your safety training report. Safety training reports can be generated [here](https://training.ehs.washington.edu/mytraining/).
+
