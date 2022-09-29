@@ -20,7 +20,7 @@
 
 * [Standard operative proceedures](https://github.com/HuckleyLab/safety/tree/main/sops)
 
-* [Safety data sheets](https://github.com/HuckleyLab/safety/tree/main/sds)
+* [Safety data sheets](https://github.com/HuckleyLab/safety/tree/main/sds). Also available in [MyChem Laboratory chemical inventory](https://mychem.ehs.washington.edu/).
 
 * [Room summary](https://github.com/HuckleyLab/safety/blob/main/RoomSummary.pdf)
 
