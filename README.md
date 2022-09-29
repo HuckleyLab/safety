@@ -3,7 +3,7 @@
 
 * [UW lab safety manual](http://www.ehs.washington.edu/manuals/lsm/index.shtm)
 
-* [UW resources for [lab safety and inspections](https://www.ehs.washington.edu/research-lab/lab-safety-surveys-and-inspections)
+* UW resources for [lab safety and inspections](https://www.ehs.washington.edu/research-lab/lab-safety-surveys-and-inspections)
 
 * Biology new employee [safety orientation](http://www.biology.washington.edu/sites/default/files/pdf/safety/BioNewEmployeeOrientation.pdf).
 
