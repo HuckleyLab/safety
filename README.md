@@ -25,7 +25,7 @@
 * [Room summary](https://github.com/HuckleyLab/safety/blob/main/RoomSummary.pdf)
 
 ## Trainings and PPE
-* [Safety training matrix](https://github.com/HuckleyLab/safety/blob/main/ehslabsafetytrainmatrix_Buckley2020.pdf)
+* [Safety training matrix](https://github.com/HuckleyLab/safety/blob/main/ehslabsafetytrainmatrix_Buckley.pdf)
 
 * Take this [course](https://www.ehs.washington.edu/training/shipping-dry-ice-non-dangerous-goods-or-exempt-patient-specimens-online) before you ship with dry ice.
 
