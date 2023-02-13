@@ -31,6 +31,8 @@
 
 * [PPE hazard assessment](https://github.com/HuckleyLab/safety/blob/main/PPE-hazard-assessment_Buckley.pdf)
 
+* Take the [NSF Responsible Conduct of Research](https://www.washington.edu/research/compliance/responsible-conduct-of-research-rcrtraining/rcr-training-instructions/) course if you work on an NSF-funded project
+
 ## Training records
 Training records are available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing). 
 
