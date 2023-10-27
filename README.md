@@ -7,7 +7,7 @@
 
 * Biology new employee [safety orientation](http://www.biology.washington.edu/sites/default/files/pdf/safety/BioNewEmployeeOrientation.pdf).
 
-* [Report any lab accident using the OARS system here](http://www.ehs.washington.edu/ohsoars/index.shtm)
+* [Report any lab accident using the OARS system here](https://www.ehs.washington.edu/workplace/incident-reporting)
 
 * [Laboratory floor plans](https://github.com/HuckleyLab/safety/blob/main/BuckleyFloorPlan.pdf)
 
