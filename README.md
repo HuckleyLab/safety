@@ -33,6 +33,8 @@
 
 * Take the [NSF Responsible Conduct of Research](https://www.washington.edu/research/compliance/responsible-conduct-of-research-rcrtraining/rcr-training-instructions/) course if you work on an NSF-funded project
 
+* Check your current and expired trainings through EH&S [here](https://training.ehs.washington.edu/mytraining/index.php) (NetID required).
+
 ## Training records
 Training records are available in this [Google Drive folder](https://drive.google.com/drive/folders/1Hfr-_HthjSKLm_6vKEbUimcoZEklHs4y?usp=sharing). 
 
