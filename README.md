@@ -13,10 +13,12 @@
 
 * [Emergency contacts](https://github.com/HuckleyLab/safety/blob/main/BuckleyLab-emergency-information.pdf)
 
-## Chemicals
+## Laboratory Risk Assesments and Chemicals
 * [MyChem Laboratory chemical inventory](https://mychem.ehs.washington.edu/) [PI Lab safety dashboard](https://labsurvey.ehs.washington.edu/pi/)
 
 * [Laboratory specific Chemical Hygene Plan](https://github.com/HuckleyLab/safety/blob/main/Laboratory-SpecificCHP_Buckley.pdf)
+
+* [Laboratory Risk Assessment](https://github.com/HuckleyLab/safety/blob/main/laboratory-risk-assessment_Buckley.pdf)
 
 * [Standard operative proceedures](https://github.com/HuckleyLab/safety/tree/main/sops)
 
