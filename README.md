@@ -1,7 +1,7 @@
 # Buckley Lab safety information
 * [UW Biology safety resources](https://www.biology.washington.edu/admin-gateway/departmental/safety) (requires department login)
 
-* [UW lab safety manual](http://www.ehs.washington.edu/manuals/lsm/index.shtm)
+* [UW lab safety manual](https://www.ehs.washington.edu/resource/laboratory-safety-manual-510)
 
 * UW resources for [lab safety and inspections](https://www.ehs.washington.edu/research-lab/lab-safety-surveys-and-inspections)
 
